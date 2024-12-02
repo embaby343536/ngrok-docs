@@ -8,15 +8,15 @@
 	"basic_auth": null,
 	"circuit_breaker": null,
 	"compression": null,
-	"created_at": "2024-11-20T21:01:56Z",
+	"created_at": "2024-12-02T10:08:20Z",
 	"description": "app servers",
-	"id": "ec_2p88oWZs0b0iqsp0PpkkNRPCW82",
+	"id": "ec_2peko6cvAqfwa4Msb7qDyy6nch3",
 	"ip_policy": {
 		"enabled": true,
 		"ip_policies": [
 			{
-				"id": "ipp_2p88oTleYrDUCeqMHaunNYU1eFF",
-				"uri": "https://api.ngrok.com/ip_policies/ipp_2p88oTleYrDUCeqMHaunNYU1eFF"
+				"id": "ipp_2peko69TGQoJXjQYu4wPtl0YEKP",
+				"uri": "https://api.ngrok.com/ip_policies/ipp_2peko69TGQoJXjQYu4wPtl0YEKP"
 			}
 		]
 	},
@@ -34,7 +34,7 @@
 	"saml": null,
 	"tls_termination": null,
 	"type": "https",
-	"uri": "https://api.ngrok.com/endpoint_configurations/ec_2p88oWZs0b0iqsp0PpkkNRPCW82",
+	"uri": "https://api.ngrok.com/endpoint_configurations/ec_2peko6cvAqfwa4Msb7qDyy6nch3",
 	"webhook_validation": null
 }
 ```
